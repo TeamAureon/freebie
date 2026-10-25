@@ -10,11 +10,11 @@ student, and texts each one in iMessage with a link to act on it.
 
 Built by **Team Aureon** for Track 1 of the [Cubbie Hackathon](https://hackathon.cubbie.ai).
 
-**▶ [Watch the demo video on Instagram](https://www.instagram.com/reel/De5UWHPvbqe/)**
+**▶ [Watch the demo video](https://drive.google.com/file/d/1bKg_H9LyqZ3e7SXQCzANHVR1Uml9ed5L/view)**
 
 | | |
 | --- | --- |
-| **Demo** | [Instagram reel](https://www.instagram.com/reel/De5UWHPvbqe/) |
+| **Demo** | [Google Drive](https://drive.google.com/file/d/1bKg_H9LyqZ3e7SXQCzANHVR1Uml9ed5L/view) · also on [Instagram](https://www.instagram.com/reel/De5UWHPvbqe/) |
 | **Install** | Text `https://github.com/TeamAureon/freebie/tree/main/freebie-radar` to Cubbie and reply "yes" |
 | **Try** | "anything free this week?" |
 | **Status** | Installed and tested on a real Cubbie account, October 24, 2026 |
